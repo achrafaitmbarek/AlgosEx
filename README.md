@@ -1,2 +1,2 @@
-#Algorithm CLASS
-##Classic Algorithm Exercises
+# Algorithm CLASS
+## Algorithm Exercises

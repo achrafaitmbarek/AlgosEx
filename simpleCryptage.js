@@ -9,7 +9,7 @@ function encryptWord(word) {
   
       // is letter ?
       if (char >= 'a' && char <= 'z') {
-        // Replace each letter with its position in the alphabet
+        // here we Replace each letter with its position in the alphabet
         const position = char.charCodeAt(0) - 'a'.charCodeAt(0) + 1;
         encryptedWord += position + ' ';
       } else {
