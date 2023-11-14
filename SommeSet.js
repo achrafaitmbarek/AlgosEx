@@ -27,3 +27,4 @@ const result4 = sumOfTwoDigitsInTheTable([1,90,9,6,32,2,5,12], 18)
 
 console.log("result1: ", result1);
 console.log("result2: ", result2);
+
